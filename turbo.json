@@ -1,0 +1,10 @@
+{
+    "extends": "turbo/presets",
+    "pipeline": {
+        "build": {
+            "outputs": ["dist/**"]
+        },
+        "lint": {},
+        "test": {}
+    }
+}
